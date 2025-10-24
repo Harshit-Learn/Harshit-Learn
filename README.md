@@ -49,18 +49,21 @@
 ### 📝 Projects
 
 #### 1️⃣ [User-Management-CRUD-App-using-React-Redux](https://user-management-crud-app-beta.vercel.app/)   
-A full CRUD app using **React & Redux**, allows adding, editing, and deleting users. 
+Developed a simple React and Redux CRUD app where users can add, edit, and delete user information (name
+and email) in the application state.
 <img width="1242" height="644" alt="image" src="https://github.com/user-attachments/assets/7e956531-36dd-4029-ac7b-99eaf965d568" />
 
 
 #### 2️⃣ [Next.js Fullstack Auth App](https://nextjs-fullstack-auth-app-five.vercel.app/)  
- Full-stack authentication app using **Next.js, Node.js, MongoDB & JWT**.  
+Developed a secure authentication system using  **Next.js, Node.js, MongoDB & JWT** login/logout
+functionality.  
  <img width="1324" height="659" alt="image" src="https://github.com/user-attachments/assets/1a72c902-3e6d-44e1-8a22-f9555da74cc9" />
 
 
 #### 3️⃣ [MERN Food Recipe App with Authentication](#)  
 ![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-Full MERN stack recipe app with authentication and recipe management.  
+Developed a full-stack Food Recipe application using the **MERN stack** with secure JWT authentication.
+   
 
 ---
 
