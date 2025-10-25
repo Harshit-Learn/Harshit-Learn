@@ -1,78 +1,66 @@
-# Hi 👋, I'm Harshit Barnwal
+# 👋 Hi, I'm Harshit Barnwal  
 
-💻 **Full-Stack Developer | React | Next.js |Node.js | MongoDB | Redux**  
+🚀 **MERN Stack Developer | Frontend Enthusiast | Problem Solver**  
 
-🚀 Building responsive & scalable web apps with MERN stack  
-
----
-
-### 🔭 I’m currently working on
-- MERN Stack Recipe apps with JWT & WeCrypt authentication  
-- Next.js full-stack projects (SSR, API routes, dynamic routing)  
-- Learning advanced React patterns and cloud deployment  
+I'm passionate about building modern, responsive, and scalable web applications using the **MERN stack** (MongoDB, Express, React, Node.js).  
+I love turning ideas into real-world projects and continuously improving my development skills.
 
 ---
 
-### 🌱 I’m currently learning
-- Serverless deployments (Vercel, Render)  
-- GraphQL & Apollo  
-- TypeScript in Next.js  
+## 🧠 About Me  
+- 🌱 Currently learning **Next.js & Authentication Systems**  
+- 💼 Open to collaborating on **Fullstack Web Projects**  
+- 🧩 Strong foundation in **HTML, CSS, JavaScript, React, and Node.js**  
+- ⚡ Loves exploring **UI/UX**, performance optimization, and clean code practices  
 
 ---
 
-### 💬 Ask me about
-- JavaScript, React, Next.js, Node.js, MongoDB, Redux  
-- Web app optimization & deployment  
-- Authentication & Authorization systems  
+## 🛠️ Tech Stack  
 
----
-
-### ⚡ Skills
 **Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+`HTML` · `CSS` · `Tailwind CSS` · `JavaScript (ES6+)` · `React.js` · `Next.js`  
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose`  
 
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+**Tools & Platforms:**  
+`Git & GitHub` · `Vercel` · `VS Code` · `Postman`  
 
 ---
 
-### 📝 Projects
+## 🚀 My Projects  
 
-#### 1️⃣ [User-Management-CRUD-App-using-React-Redux](https://user-management-crud-app-beta.vercel.app/)   
-Developed a simple React and Redux CRUD app where users can add, edit, and delete user information (name
-and email) in the application state.
-<img width="1242" height="644" alt="image" src="https://github.com/user-attachments/assets/7e956531-36dd-4029-ac7b-99eaf965d568" />
-
-
-#### 2️⃣ [Next.js Fullstack Auth App](https://nextjs-fullstack-auth-app-five.vercel.app/)  
-Developed a secure authentication system using  **Next.js, Node.js, MongoDB & JWT** login/logout
-functionality.  
- <img width="1324" height="659" alt="image" src="https://github.com/user-attachments/assets/1a72c902-3e6d-44e1-8a22-f9555da74cc9" />
-
-
-#### 3️⃣ [MERN Food Recipe App with Authentication](#)  
-![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-Developed a full-stack Food Recipe application using the **MERN stack** with secure JWT authentication.
-   
+### 🧑‍💻 [User Management CRUD App (React + Redux)](https://user-management-crud-app-beta.vercel.app/)
+A CRUD application built with **React and Redux**, enabling users to **add, edit, and delete** records in a clean UI.  
+🔗 [Repository](https://github.com/Harshit-Learn/User-Management-CRUD-App-using-React-Redux)
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-barnwal-937a69195)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/harshit_barnwal)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitbarnwal408@gmail.com
-)  
+### 🔐 [Next.js Fullstack Auth App](https://nextjs-fullstack-auth-app-five.vercel.app/)
+A **Next.js authentication app** using **MongoDB, JWT, and Bcrypt**, supporting user registration and login functionality.  
+🔗 [Repository](https://github.com/Harshit-Learn/Nextjs-Fullstack-Auth-App)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🍔 [Food Recipe App (React)](https://food-recipe-app-git-main-harshit-barnwals-projects.vercel.app/)
+A **React-based Food Recipe App** to browse, search, and view detailed recipes with ingredients and instructions.  
+🔗 [Repository](https://github.com/Harshit-Learn/Food-Recipe-App)
+
+---
+
+## 📊 GitHub Stats  
+
+![Harshit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit-Learn&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Learn&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me  
+
+💼 [LinkedIn](https://www.linkedin.com/in/harshitbarnwal/)  
+📧 **Email:** harshitbarnwal408@gmail.com  
+🌍 [Portfolio](https://harshitbarnwal.vercel.app/) _(if you have one, add here)_
+
+---
+
+⭐ **“Code. Debug. Learn. Repeat.”**  
