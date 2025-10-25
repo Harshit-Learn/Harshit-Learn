@@ -30,6 +30,20 @@ I love turning ideas into real-world projects and continuously improving my deve
 
 ## 🚀 My Projects  
 
+
+### 🎬 [MovieZone App (React)](https://movie-zonereact-8ex9ewf97-harshit-barnwals-projects.vercel.app/)
+MovieZone is a React.js-based web application designed to showcase a collection of movies. It provides an interactive and visually appealing interface for users to browse through movie details, including titles, release dates, and posters.  
+🔗 [Repository](https://github.com/Harshit-Learn/MovieZone-Project-with-React.JS)
+
+
+
+### 🍔 [Food Recipe App (React)](https://food-recipe-app-git-main-harshit-barnwals-projects.vercel.app/)
+A **React-based Food Recipe App** that allows users to **browse, search, and view detailed recipes** with ingredients and cooking instructions.  
+This project uses **TheMealDB API** to fetch real-time recipe data.
+
+🔗 [Repository](https://github.com/Harshit-Learn/Food_Recipe_App_With_React)
+
+
 ### 🧑‍💻 [User Management CRUD App (React + Redux)](https://user-management-crud-app-beta.vercel.app/)
 A CRUD application built with **React and Redux**, enabling users to **add, edit, and delete** records in a clean UI.  
 🔗 [Repository](https://github.com/Harshit-Learn/User-Management-CRUD-App-using-React-Redux)
@@ -42,15 +56,8 @@ A **Next.js authentication app** using **MongoDB, JWT, and Bcrypt**, supporting 
 
 ---
 
-### 🍔 [Food Recipe App (React)](https://food-recipe-app-git-main-harshit-barnwals-projects.vercel.app/)
-A **React-based Food Recipe App** that allows users to **browse, search, and view detailed recipes** with ingredients and cooking instructions.  
-This project uses **TheMealDB API** to fetch real-time recipe data.
-
-🔗 [Repository](https://github.com/Harshit-Learn/Food_Recipe_App_With_React)
 
 
-
----
 
 ## 📊 GitHub Stats  
 
