@@ -43,8 +43,9 @@ A **Next.js authentication app** using **MongoDB, JWT, and Bcrypt**, supporting 
 ---
 
 ### 🍔 [Food Recipe App (React)](https://food-recipe-app-git-main-harshit-barnwals-projects.vercel.app/)
-A **React-based Food Recipe App** to browse, search, and view detailed recipes with ingredients and instructions.  
-🔗 [Repository](https://github.com/Harshit-Learn/Food-Recipe-App)
+A **React-based Food Recipe App** that allows users to **browse, search, and view detailed recipes** with ingredients and cooking instructions.  
+This project uses **TheMealDB API** to fetch real-time recipe data. 
+🔗 [Repository]([https://github.com/Harshit-Learn/Food-Recipe-App](https://github.com/Harshit-Learn/Food_Recipe_App_With_React?tab=readme-ov-file))
 
 ---
 
