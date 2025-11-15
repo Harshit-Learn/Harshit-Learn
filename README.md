@@ -8,8 +8,15 @@ I love building modern, responsive, and scalable web applications and turning id
 ---
 
 ## 🧠 About Me  
-I’m passionate about building modern, responsive, and scalable web applications using Next.js, TypeScript, and the MERN stack (MongoDB, Express, React, Node.js).
-I love turning ideas into real-world projects and constantly improving my development skills.
+ `Passionate about clean UI, performance optimization, and reusable components.`
+
+ `Experienced with React.js, Next.js, HTML, CSS, JavaScript, TypeScript.`
+
+ `Strong API integration using Fetch, Axios, and testing with Postman.`
+
+ `2.5 years of Technical Support Engineering experience → solid debugging & real-time problem-solving skills.`
+
+ `Worked on building responsive interfaces and MERN stack mini-projects.`
 
 ---
 
