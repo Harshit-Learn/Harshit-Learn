@@ -1,24 +1,22 @@
 # 👋 Hi, I'm Harshit Barnwal  
 
-🚀 **MERN Stack Developer | Frontend Enthusiast | Problem Solver**  
+🚀 **NextJS Developer | MERN Stack Developer | Frontend Enthusiast | Problem Solver**  
 
-I'm passionate about building modern, responsive, and scalable web applications using the **MERN stack** (MongoDB, Express, React, Node.js).  
-I love turning ideas into real-world projects and continuously improving my development skills.
+I’m a Frontend Developer skilled in Next.js, TypeScript, and the MERN stack.
+I love building modern, responsive, and scalable web applications and turning ideas into real-world projects.
 
 ---
 
 ## 🧠 About Me  
-- 🌱 Currently learning **Next.js & Authentication Systems**  
-- 💼 Open to collaborating on **Fullstack Web Projects**  
-- 🧩 Strong foundation in **HTML, CSS, JavaScript, React, and Node.js**  
-- ⚡ Loves exploring **UI/UX**, performance optimization, and clean code practices  
+I’m passionate about building modern, responsive, and scalable web applications using Next.js, TypeScript, and the MERN stack (MongoDB, Express, React, Node.js).
+I love turning ideas into real-world projects and constantly improving my development skills.
 
 ---
 
 ## 🛠️ Tech Stack  
 
 **Frontend:**  
-`HTML` · `CSS` · `Tailwind CSS` · `JavaScript (ES6+)` · `React.js` · `Next.js`  
+`HTML` · `CSS` · `Tailwind CSS` · `JavaScript (ES6+)` · `TypeScript` · `React.js` · `Next.js`  
 
 **Backend:**  
 `Node.js` · `Express.js` · `MongoDB` · `Mongoose`  
