@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshit Barnwal  
 
-🚀 **Aspiring DevOps Engineer | Cloud Support | SRE Enthusiast | Ex-Frontend Developer**
+🚀 **Aspiring DevOps Engineer | Cloud Support | SRE Enthusiast**
 
 ---
 
