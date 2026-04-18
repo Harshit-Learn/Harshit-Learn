@@ -1,69 +1,103 @@
 # 👋 Hi, I'm Harshit Barnwal  
 
-🚀 **Aspiring DevOps Engineer | Cloud Support | SRE Enthusiast**
+☁️ **Cloud & DevOps Engineer | Infrastructure Support | SRE Mindset**
 
 ---
 
-## ⚡ About Me   
+## ⚡ About Me  
 
-🔧 2.5+ years of **Technical Support Engineering experience**  
-→ Strong in **debugging, production issue handling & root cause analysis**  
+🔧 Working as a **Technical Engineer (Cloud & Infrastructure Support)**  
+→ Managing production systems, handling incidents & ensuring uptime  
 
-☁️ Currently learning & building in:  
-`Linux` · `Docker` · `AWS` · `CI/CD` · `Nginx` · `Monitoring`  
+☁️ Strong focus on:  
+- Cloud Infrastructure (AWS)  
+- System Reliability & Monitoring  
+- Incident Management & RCA  
 
-📈 Interested in:  
-- System Design & Scalability  
-- Automation & Deployment Pipelines  
-- Infrastructure Monitoring (SRE mindset)  
-
----
-
-## 🛠️ Tech Stack  
-
-### 👨‍💻 DevOps & Cloud  
-`Linux` · `Docker` · `AWS (EC2, S3 - learning)` · `Nginx` · `CI/CD (GitHub Actions - learning)`  
-
-### ⚙️ Backend & Scripting  
-`Node.js` · `Express.js` · `MongoDB` · `REST APIs`  
-
-### 🎨 Frontend (Previous Experience)  
-`React.js` · `Next.js` · `TypeScript` · `Tailwind CSS`  
-
-### 🧰 Tools  
-`Git` · `GitHub` · `Postman` · `VS Code`  
+🚀 Transitioning towards:  
+- DevOps Engineering  
+- Site Reliability Engineering (SRE)  
+- Scalable & Automated Infrastructure  
 
 ---
 
-## 🚀 DevOps Projects (Focus Area)  
+## ☁️ Cloud & DevOps Skills  
 
-### 🐳 Dockerized Node App  
-- Containerized Node.js application using Docker  
-- Multi-stage build optimization  
-- Environment-based configuration  
+### ☁️ Cloud Platform  
+`AWS (EC2, S3, IAM - hands-on)`  
 
-### ⚙️ CI/CD Pipeline (GitHub Actions)  
-- Automated build & deployment pipeline  
-- Trigger on push (main branch)  
-- Basic testing + deployment flow  
+### ⚙️ DevOps & Infra  
+`Linux` · `Docker` · `Nginx` · `CI/CD (GitHub Actions)`  
 
-### 🌐 Nginx Reverse Proxy Setup  
-- Configured Nginx for routing & load handling  
-- Served frontend + backend via reverse proxy  
+### 📊 Monitoring & Support  
+- Production Monitoring  
+- Log Analysis  
+- Incident Handling  
+- Root Cause Analysis (RCA)  
 
 ---
 
-## 💻 Development Projects  
+## 💼 Professional Experience  
 
-### 🎬 MovieZone App (React)  
-🔗 Live: https://movie-zonereact-8ex9ewf97-harshit-barnwals-projects.vercel.app/  
-🔗 Repo: https://github.com/Harshit-Learn/MovieZone-Project-with-React.JS  
+### 🏢 Technical Engineer | Cloud & Infrastructure Support  
+**DVertex Info System Pvt Ltd**  
+📅 Dec 2025 – Present  
 
-### 🍔 Food Recipe App  
-🔗 Repo: https://github.com/Harshit-Learn/Food_Recipe_App_With_React  
+- Supporting cloud-based infrastructure and live production environments  
+- Monitoring system performance and resolving critical issues  
+- Working with AWS services and deployment environments  
+- Ensuring high availability and reliability of applications  
 
-### 🧑‍💻 CRUD App (Redux)  
-🔗 Repo: https://github.com/Harshit-Learn/User-Management-CRUD-App-using-React-Redux  
+---
+
+### 🏢 Full Stack Developer (Cloud Exposure)  
+**Unified Mentor**  
+📅 Jul 2025 – Dec 2025  
+
+- Built and supported full-stack applications  
+- Assisted in deployments and cloud-based setups  
+- Worked on API integrations and debugging  
+
+---
+
+### 🏢 Technical Engineer  
+**Franciscan Solutions Pvt Ltd**  
+📅 Feb 2023 – Jul 2025  
+
+- Supported ERP systems and enterprise applications  
+- Handled production issues and ensured minimal downtime  
+- Collaborated with developers for bug resolution  
+
+---
+
+## 🚀 Cloud & DevOps Projects  
+
+### 🐳 Dockerized Application  
+- Containerized Node.js app using Docker  
+- Multi-stage builds for optimization  
+- Environment-based deployment setup  
+
+---
+
+### ⚙️ CI/CD Pipeline  
+- Automated build & deployment using GitHub Actions  
+- Trigger-based deployments (main branch)  
+- Basic test integration  
+
+---
+
+### 🌐 Nginx Reverse Proxy  
+- Configured reverse proxy for backend & frontend  
+- Improved request routing and load handling  
+
+---
+
+## 📊 What I Bring  
+
+✔️ Strong production support experience  
+✔️ Real-world debugging & incident handling  
+✔️ Cloud + DevOps learning with hands-on projects  
+✔️ SRE mindset (monitoring, reliability, uptime)  
 
 ---
 
@@ -81,4 +115,4 @@
 
 ---
 
-⭐ **“Automate Everything. Monitor Everything. Improve Continuously.”**
+⭐ **"Build Reliable Systems. Automate Processes. Scale with Confidence."**
